@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi there, I'm Pragash Jeyaratnam
 
-<!--
-**cyberscribbleorg/cyberscribbleorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engineer | Developer | Blogger
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- **Engineer** with over 15 years of experience in software development and system security.
+- **Certified Ethical Hacker** (CEH) | **Certified Scrum Master** (CSM)
+
+### 🌟 Highlights
+
+- **Employee Recognition Awards**: Acknowledged for excellence and dedication.
+- **Secured €35 Million**: Won tenders across Asia-Pacific through strategic solution development.
+- **EventFlow**: Creator of an open-source project for efficient event management.
+
+### 💡 Skills
+
+- **Software Development**: Application Security Testing (SAST, DAST, IAST), OWASP, NIST, ISO21434, PCI-DSS
+- **Programming**: C/C++, Python, Bash, SQL/NoSQL
+- **Leadership**: Team management, stakeholder engagement, conflict resolution
+
+### ✍️ Blogging/Newsletter
+
+- Avid blogger at [CyberScribble.org](https://cyberscribble.org), where I share insights and knowledge about software development and security trends and practices.
+
+### 📫 Contact
+
+- **Location**: Canada
+- **Email**: [Pragash.Jeyaratnam@gmail.com](mailto:Pragash.Jeyaratnam@gmail.com)
+
+---
+
+Check out my repositories and let's collaborate on some exciting projects!
