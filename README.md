@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Pragash Jeyaratnam
 
-### Engineer | Developer | Blogger
+### B.Sc Eng | CEH | CSM
 
 ---
 
