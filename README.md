@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Pragash Jeyaratnam
 
-### B.Sc Eng | CEH | CSM
+### B.Sc Eng [ Hons ]  | CEH 
 
 ---
 
