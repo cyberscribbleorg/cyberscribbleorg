@@ -28,7 +28,6 @@
 ### 📫 Contact
 
 - **Location**: Canada
-- **Email**: [Pragash.Jeyaratnam@gmail.com](mailto:Pragash.Jeyaratnam@gmail.com)
 
 ---
 
