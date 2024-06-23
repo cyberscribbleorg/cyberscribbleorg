@@ -6,20 +6,11 @@
 
 ### About Me
 
-- **Engineer** with over 15 years of experience in software development and system security.
-- **Certified Ethical Hacker** (CEH) | **Certified Scrum Master** (CSM)
-
-### 🌟 Highlights
-
-- **Employee Recognition Awards**: Acknowledged for excellence and dedication.
-- **Secured €35 Million**: Won tenders across Asia-Pacific through strategic solution development.
-- **EventFlow**: Creator of an open-source project for efficient event management.
+- **Engineer** 
 
 ### 💡 Skills
 
-- **Software Development**: Application Security Testing (SAST, DAST, IAST), OWASP, NIST, ISO21434, PCI-DSS
 - **Programming**: C/C++, Python, Bash, SQL/NoSQL
-- **Leadership**: Team management, stakeholder engagement, conflict resolution
 
 ### ✍️ Blogging/Newsletter
 
