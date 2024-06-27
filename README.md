@@ -13,7 +13,7 @@
 
 ### ✍️ Blogging/Newsletter
 
-- Avid blogger at [CyberScribble.org](https://cyberscribble.org), where I share insights and knowledge about software development and security trends and practices.
+- Avid blogger at [CyberScribble.org](https://cyberscribble.org), where I scribble about whatever comes to my mind.
 
 ### 📫 Contact
 
