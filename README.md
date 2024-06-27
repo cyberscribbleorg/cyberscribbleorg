@@ -1,12 +1,10 @@
 ## 👋 Hi there, I'm Pragash Jeyaratnam
 
-### B.Sc Eng [ Hons ]  | CEH 
-
 ---
 
 ### About Me
 
-- **Engineer** 
+- Aspriting **Engineer**
 
 ### 💡 Skills
 
