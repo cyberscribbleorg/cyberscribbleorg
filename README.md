@@ -4,7 +4,7 @@
 
 ### About Me
 
-- Aspriting **Engineer**
+- Aspriring **Engineer**
 
 ### 💡 Skills
 
