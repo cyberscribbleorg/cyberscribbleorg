@@ -4,7 +4,8 @@
 
 ### About Me
 
-- Aspriring **Engineer**
+- Aspiring **Engineer**
+- Technology wandering
 
 ### 💡 Skills
 
