@@ -11,10 +11,6 @@
 
 - **Programming**: C/C++, Python, Bash, SQL/NoSQL
 
-### ✍️ Blogging/Newsletter
-
-- Avid blogger at [CyberScribble.org](https://cyberscribble.org), where I scribble about whatever comes to my mind.
-
 ### 📫 Contact
 
 - **Location**: Canada
