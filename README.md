@@ -3,8 +3,6 @@
 ---
 
 ### About Me
-
-- Aspiring **Engineer**
 - Technology wandering
 
 ### 💡 Skills
